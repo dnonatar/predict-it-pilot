@@ -1,0 +1,65 @@
+.h3 {
+    border: groove;
+    border-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    margin: auto;
+    /* width: 50%; */
+    width: inherit;
+    padding: 10px;
+    text-align:end;
+    font-variant:inherit;
+    color:whitesmoke;
+    background-color: #961414;
+    font-family: sans-serif;
+    font-size: 20px;
+  }
+  .h4 {
+    border: groove;
+    border-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    margin: auto;
+    /* width: 50%; */
+    width: inherit;
+    padding: 10px;
+    text-align:left;
+    font-family: sans-serif;
+    font-size: 20px;
+  }
+  .button {
+      background-color: #961414; 
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      font-family: sans-serif;
+  }  
+  .button1 {
+    padding: 10px;
+    text-align: center;
+    position:relative;
+    display: inline-block;
+    margin: auto;
+  }
+  #container {
+    text-align: center;
+  }
+  .center {
+    padding-top: 20px;
+    text-align: center;
+  }
+  img {
+    max-width: 150%;
+    height: auto;
+    width: auto; 
+    max-width: 50vw;
+}
+
+#page {
+  max-width: 900px;
+  margin: auto;
+}

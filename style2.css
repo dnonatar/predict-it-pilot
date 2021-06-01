@@ -1,0 +1,50 @@
+.h3 {
+    border: groove;
+    border-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    margin: auto;
+    /* width: 50%; */
+    width: inherit;
+    padding: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-variant:inherit;
+    color:whitesmoke;
+    background-color: #961414;
+  }
+  .h4 {
+    border: groove;
+    border-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    margin: auto;
+    /* width: 50%; */
+    width: inherit;
+    padding: 10px;
+    text-align:left;
+  }
+  .button {
+    background-color: #961414; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: sans-serif;
+}  
+  #container {
+    text-align: center;
+  }
+  .center {
+    padding-top: 20px;
+    text-align: center;
+  }
+
+  #page {
+    max-width: 900px;
+    margin: auto;
+  }
